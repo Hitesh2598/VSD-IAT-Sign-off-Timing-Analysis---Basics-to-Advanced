@@ -124,217 +124,42 @@ Total 211 Cells
 ![list cell](https://user-images.githubusercontent.com/108817818/220404070-9c9c3069-762c-4c96-aedf-f2f87d658814.jpg)
 							
 List of all the cells available
-1.	INV_X1       
-2.	INV_X2 
-3.	INV_X3 
-4.	INV_X4 
-5.	INV_X6 
-6.	INV_X8 
-7.	INV_X10 
-8.	INV_X20 
-9.	INV_X40 
-10.	INV_X80 
-11.	INV_Y1 
-12.	INV_Y2 
-13.	INV_Y3 
-14.	INV_Y4 
-15.	INV_Y6 
-16.	INV_Y8 
-17.	INV_Y10 
-18.	INV_Y20 
-19.	INV_Y40 
-20.	INV_Y80 
-21.	INV_Z1 
-22.	INV_Z2 
-23.	INV_Z3 
-24.	INV_Z4 
-25.	INV_Z6 
-26.	INV_Z8 
-27.	INV_Z10 
-28.	INV_Z20 
-29.	INV_Z40 
-30.	INV_Z80 
-31.	NAND2_X1 
-32.	NAND2_X2 
-33.	NAND2_X3 
-34.	NAND2_X4 
-35.	NAND2_X6 
-36.	NAND2_X8 
-37.	NAND2_X10 
-38.	NAND2_X20 
-39.	NAND2_X40 
-40.	NAND2_X80 
-41.	NAND2_Y01 
-42.	NAND2_Y02 
-43.	NAND2_Y03 
-44.	NAND2_Y04 
-45.	NAND2_Y06 
-46.	NAND2_Y08 
-47.	NAND2_Y10 
-48.	NAND2_Y20 
-49.	NAND2_Y40 
-50.	NAND2_Y80 
-51.	NAND2_Z01 
-52.	NAND2_Z02 
-53.	NAND2_Z03 
-54.	NAND2_Z04 
-55.	NAND2_Z06 
-56.	NAND2_Z08 
-57.	NAND2_Z10 
-58.	NAND2_Z20 
-59.	NAND2_Z40 
-60.	NAND2_Z80 
-61.	NAND3_X1 
-62.	NAND3_X2 
-63.	NAND3_X3 
-64.	NAND3_X4 
-65.	NAND3_X6 
-66.	NAND3_X8 
-67.	NAND3_X10 
-68.	NAND3_X20 
-69.	NAND3_X40 
-70.	NAND3_X80 
-71.	NAND3_Y1 
-72.	NAND3_Y2 
-73.	NAND3_Y3 
-74.	NAND3_Y4 
-75.	NAND3_Y6 
-76.	NAND3_Y8 
-77.	NAND3_Y10 
-78.	NAND3_Y20 
-79.	NAND3_Y40 
-80.	NAND3_Y80 
-81.	NAND3_Z1 
-82.	NAND3_Z2 
-83.	NAND3_Z3 
-84.	NAND3_Z4 
-85.	NAND3_Z6 
-86.	NAND3_Z8 
-87.	NAND3_Z10 
-88.	NAND3_Z20 
-89.	NAND3_Z40 
-90.	NAND3_Z80 
-91.	NAND4_X1 
-92.	NAND4_X2 
-93.	NAND4_X3 
-94.	NAND4_X4 
-95.	NAND4_X6 
-96.	NAND4_X8 
-97.	NAND4_X10 
-98.	NAND4_X20 
-99.	NAND4_X40 
-100.	NAND4_X80 
-101.	NAND4_Y1 
-102.	NAND4_Y2 
-103.	NAND4_Y3 
-104.	NAND4_Y4 
-105.	NAND4_Y6 
-106.	NAND4_Y8 
-107.	NAND4_Y10 
-108.	NAND4_Y20 
-109.	NAND4_Y40 
-110.	NAND4_Y80 
-111.	NAND4_Z1 
-112.	NAND4_Z2 
-113.	NAND4_Z3 
-114.	NAND4_Z4 
-115.	NAND4_Z6 
-116.	NAND4_Z8 
-117.	NAND4_Z10 
-118.	NAND4_Z20 
-119.	NAND4_Z40 
-120.	NAND4_Z80 
-121.	NOR2_X1 
-122.	NOR2_X2 
-123.	NOR2_X3 
-124.	NOR2_X4 
-125.	NOR2_X6 
-126.	NOR2_X8 
-127.	NOR2_X10 
-128.	NOR2_X20 
-129.	NOR2_X40 
-130.	NOR2_X80 
-131.	NOR2_Y1 
-132.	NOR2_Y2 
-133.	NOR2_Y3 
-134.	NOR2_Y4 
-135.	NOR2_Y6 
-136.	NOR2_Y8 
-137.	NOR2_Y10 
-138.	NOR2_Y20 
-139.	NOR2_Y40 
-140.	NOR2_Y80 
-141.	NOR2_Z1 
-142.	NOR2_Z2 
-143.	NOR2_Z3 
-144.	NOR2_Z4 
-145.	NOR2_Z6 
-146.	NOR2_Z8 
-147.	NOR2_Z10 
-148.	NOR2_Z20 
-149.	NOR2_Z40 
-150.	NOR2_Z80 
-151.	NOR3_X1 
-152.	NOR3_X2 
-153.	NOR3_X3 
-154.	NOR3_X4 
-155.	NOR3_X6 
-156.	NOR3_X8 
-157.	NOR3_X10 
-158.	NOR3_X20 
-159.	NOR3_X40 
-160.	NOR3_X80 
-161.	NOR3_Y1 
-162.	NOR3_Y2 
-163.	NOR3_Y3 
-164.	NOR3_Y4 
-165.	NOR3_Y6 
-166.	NOR3_Y8 
-167.	NOR3_Y10 
-168.	NOR3_Y20 
-169.	NOR3_Y40 
-170.	NOR3_Y80 
-171.	NOR3_Z1 
-172.	NOR3_Z2 
-173.	NOR3_Z3 
-174.	NOR3_Z4 
-175.	NOR3_Z6 
-176.	NOR3_Z8 
-177.	NOR3_Z10 
-178.	NOR3_Z20 
-179.	NOR3_Z40 
-180.	NOR3_Z80 
-181.	NOR4_X1 
-182.	NOR4_X2 
-183.	NOR4_X3 
-184.	NOR4_X4 
-185.	NOR4_X6 
-186.	NOR4_X8 
-187.	NOR4_X10 
-188.	NOR4_X20 
-189.	NOR4_X40 
-190.	NOR4_X80 
-191.	NOR4_Y1 
-192.	NOR4_Y2 
-193.	NOR4_Y3 
-194.	NOR4_Y4 
-195.	NOR4_Y6 
-196.	NOR4_Y8 
-197.	NOR4_Y10 
-198.	NOR4_Y20 
-199.	NOR4_Y40 
-200.	NOR4_Y80 
-201.	NOR4_Z1 
-202.	NOR4_Z2 
-203.	NOR4_Z3 
-204.	NOR4_Z4 
-205.	NOR4_Z6 
-206.	NOR4_Z8 
-207.	NOR4_Z10 
-208.	NOR4_Z20 
-209.	NOR4_Z40 
-210.	NOR4_Z80 
-211.	DFF_X80 
+
+
+
+| CELL NAME | CELL NAME | CELL NAME | CELL NAME | CELL NAME | CELL NAME | CELL NAME | CELL NAME | 
+| ------ |  ------ | ------ |  ------ | ------ |  ------ | ------ |  ------ | 
+| INV_X1 |   NAND2_X1 | NAND3_X1 | NAND4_X1 | NOR2_X1|NOR3_X1 |NOR4_X1 |DFF_X80 |
+| INV_X2 |   NAND2_X2 |NAND3_X2  | NAND4_X2  | NOR2_X2| NOR3_X2| NOR4_X2
+| INV_X3 |   NAND2_X3 | NAND3_X3  |NAND4_X3   | NOR2_X3| NOR3_X3| NOR4_X3 
+| INV_X4 |   NAND2_X4 |NAND3_X4   | NAND4_X4 | NOR2_X4 |NOR3_X4|NOR4_X4 
+| INV_X6 |   NAND2_X6 | NAND3_X6 |  NAND4_X6 | NOR2_X6 |NOR3_X6 |NOR4_X6 
+| INV_X8 |    NAND2_X8  |NAND3_X8  | NAND4_X8  | NOR2_X8| NOR3_X8| NOR4_X8 
+| INV_X10 |  NAND2_X10 |NAND3_X10 | NAND4_X10| NOR2_X10 |NOR3_X10 |NOR4_X10 
+| INV_X20 |  NAND2_X20 |NAND3_X20 |NAND4_X20 |NOR2_X20 |NOR3_X20 |NOR4_X20 
+| INV_X40 |  NAND2_X40 |NAND3_X40|NAND4_X40 |NOR2_X40 |NOR3_X40 |NOR4_X40 
+| INV_X80 |  NAND2_X80|NAND3_X80 |NAND4_X80 |NOR2_X80|NOR3_X80 |NOR4_X80 
+| INV_Y1  |  NAND2_Y01| NAND3_Y1 |NAND4_Y1 |NOR2_Y1 |NOR3_Y1| NOR4_Y1 
+| INV_Y2  |NAND2_Y02 |NAND3_Y2|NAND4_Y2 |NOR2_Y2 |NOR3_Y2|NOR4_Y2 
+| INV_Y3  |NAND2_Y03 |NAND3_Y3 |NAND4_Y3 |NOR2_Y3 |NOR3_Y3 |NOR4_Y3 
+| INV_Y4  |NAND2_Y04 |NAND3_Y4 |NAND4_Y4 |NOR2_Y4 |NOR3_Y4 |NOR4_Y4 
+| INV_Y6  |NAND2_Y06| NAND3_Y6 |NAND4_Y6 |NOR2_Y6 |NOR3_Y6 |NOR4_Y6 
+| INV_Y8  |NAND2_Y08 |NAND3_Y8|NAND4_Y8 |NOR2_Y8 |NOR3_Y8 |NOR4_Y8 
+| INV_Y10 |NAND2_Y10 |NAND3_Y10| NAND4_Y10| NOR2_Y10| NOR3_Y10| NOR4_Y10 
+| INV_Y20 |NAND2_Y20 |NAND3_Y20 |NAND4_Y20 |NOR2_Y20 |NOR3_Y20 |NOR4_Y20 
+| INV_Y40 |NAND2_Y40|NAND3_Y40 |NAND4_Y40 |NOR2_Y40 |NOR3_Y40 |NOR4_Y40 
+| INV_Y80 |NAND2_Y80 |NAND3_Y80 |NAND4_Y80 |NOR2_Y80 |NOR3_Y80 |NOR4_Y80 
+| INV_Z1  |NAND2_Z01 |NAND3_Z1 |NAND4_Z1 |NOR2_Z1 |NOR3_Z1 |NOR4_Z1 
+| INV_Z2  |NAND2_Z02 |NAND3_Z2 |NAND4_Z2 |NOR2_Z2 |NOR3_Z2|NOR4_Z2 
+| INV_Z3  |NAND2_Z03|NAND3_Z3 |NAND4_Z3|NOR2_Z3 |NOR3_Z3 |NOR4_Z3 
+| INV_Z4  |NAND2_Z04 |NAND3_Z4 |NAND4_Z4|NOR2_Z4 |NOR3_Z4 |NOR4_Z4 
+| INV_Z6  |NAND2_Z06 |NAND3_Z6 |NAND4_Z6 |NOR2_Z6 |NOR3_Z6 |NOR4_Z6 
+| INV_Z8  |NAND2_Z08 |NAND3_Z8|NAND4_Z8 |NOR2_Z8 |NOR3_Z8 |NOR4_Z8 
+| INV_Z10 |NAND2_Z10 |NAND3_Z10| NAND4_Z10| NOR2_Z10| NOR3_Z10 |NOR4_Z10 
+| INV_Z20 |NAND2_Z20 |NAND3_Z20 |NAND4_Z20 |NOR2_Z20 |NOR3_Z20 |NOR4_Z20 
+| INV_Z40 |NAND2_Z40 |NAND3_Z40 |NAND4_Z40 |NOR2_Z40 |NOR3_Z40|NOR4_Z40 
+| INV_Z80 |NAND2_Z80 |NAND3_Z80 |NAND4_Z80 |NOR2_Z80|NOR3_Z80 |NOR4_Z80 
+
 
 
 
@@ -363,10 +188,7 @@ NAND2_X1 is a 2 input NAND Gate with pin 'o' , 'a' , 'b'
 ![comparenand](https://user-images.githubusercontent.com/108817818/220416333-174d0d66-6092-430a-94d2-5c9a3b162134.jpg)
 
 ### **4. What is the difference between ‘simple_max.lib’ and ‘simple_min.lib’**
-
-
-
-
+On comparing simple_max.lib and simple_min.lib file it is observed that parameter like delay, fall_transition , cell_rise , rise_transition, cell_fall etc is different in both the files. In simple_max.lib file maximum value is defined for all the parameters while in simple_min.lib minimum value is defined .
 
 
 
@@ -395,7 +217,7 @@ A Typical SPEF File has 4 main sections
 									
 ![spef](https://user-images.githubusercontent.com/108817818/220420634-ecabe614-b2db-4d6a-b9ae-8a37461b91ae.jpg)
 
-**TIMING REPORT EXERCISE**
+### **TIMING REPORT EXERCISE**
 
 Add Command in run.tcl file:-
 
@@ -415,7 +237,7 @@ Rerun
 
 
 ## **LAB 3**
-**SLACK COMPUTATION**
+### **SLACK COMPUTATION**
 
 Command to run OPEN STA and save software related information to text file name out.txt
 
@@ -451,50 +273,51 @@ CIRCUIT TO PERFORM SLACK CALCULATION
 ![run tcl](https://user-images.githubusercontent.com/108817818/220443283-8f66c0e1-18a4-47b6-a237-6de5523f1e64.jpg)
 
 
-PATH 1
+### PATH 1
 
 ![path111](https://user-images.githubusercontent.com/108817818/220455720-ea6a2260-8930-4231-8599-28e919717a53.jpg)
 
 
 
-PATH 2
+### PATH 2
 
 
 ![path22](https://user-images.githubusercontent.com/108817818/220449967-2c7105b1-b11e-418c-aebf-3f73c9eb8ba0.jpg)
 
 
 
-PATH 3
+### PATH 3
 
 
 ![path33](https://user-images.githubusercontent.com/108817818/220451087-122ea7e2-fcbb-44e5-9605-a380bc22ead4.jpg)
 
 
-PATH 4
+### PATH 4
 
 ![path4](https://user-images.githubusercontent.com/108817818/220455220-2ab057ce-6ab2-49b1-82f1-cbe448cae121.jpg)
 
 
 
-PATH 5
+### PATH 5
 
 ![path 5](https://user-images.githubusercontent.com/108817818/220455244-a27b55d3-a815-4cdf-8e02-0e25470daf33.jpg)
 
 
-PATH 6
+### PATH 6
 ![path 6](https://user-images.githubusercontent.com/108817818/220455270-a3911aa5-784d-4f79-a22a-309fdec45274.jpg)
 
 
-PATH 7
+### PATH 7
 ![path 7](https://user-images.githubusercontent.com/108817818/220455301-949a0db8-43d1-4c7a-a16c-515df871bd48.jpg)
 
 
-PATH 8![path 8](https://user-images.githubusercontent.com/108817818/220455340-0c2beeae-4aa4-44bd-8b87-cf62d12ff234.jpg)
+### PATH 8
+![path 8](https://user-images.githubusercontent.com/108817818/220455340-0c2beeae-4aa4-44bd-8b87-cf62d12ff234.jpg)
 
 
 ## **LAB 4**
 
-**1. Clock Gating Check**
+### **1. Clock Gating Check**
 
 
  Gating techniques used is **‘Active Low Clock Gating’**
@@ -509,14 +332,14 @@ PATH 8![path 8](https://user-images.githubusercontent.com/108817818/220455340-0c
                             sta run.tcl –exit | tee run.log
 
 
-**SLACK ON CLOCK GATING PATH REPORTED**
+### **SLACK ON CLOCK GATING PATH REPORTED**
 
 
 ![staarunnnfirst](https://user-images.githubusercontent.com/108817818/220466455-64944079-b64d-4b25-8ea9-0e92f71b80f8.jpg)
 ![starun2](https://user-images.githubusercontent.com/108817818/220466695-00c097d2-2df1-4bfc-853f-66c4a95b41bd.jpg)
 
 
-**2. Async Pin Checks**			
+### **2. Async Pin Checks**			
            	 
 								 
 								 
@@ -543,7 +366,7 @@ Common path pessimism removal (CPPR) is the removal of artificially-induced pess
 			
 ![photu crpr](https://user-images.githubusercontent.com/108817818/220470494-2e638a5b-dca0-4ea1-b468-4c843ec0e08b.jpg)
 
-**TIMING REPORT BEFORE CPPR**
+### **TIMING REPORT BEFORE CPPR**
 
  
  
@@ -559,7 +382,7 @@ Common path pessimism removal (CPPR) is the removal of artificially-induced pess
 
 
 							 
-**TIMING REPORT AFTER CPPR**
+### **TIMING REPORT AFTER CPPR**
 
 ‘c2’ is node which requires CPPR
 
@@ -576,11 +399,40 @@ ON COMPARING
 
 ![COMPARIMG REPORT](https://user-images.githubusercontent.com/108817818/220473378-a2ca1b34-98c9-4c53-8c5a-f2e25ab3ad68.jpg)
 
-**ECO – Engineering Change Order**
+### **ECO – Engineering Change Order**
+
+In the ECO cycle, we perform various analysis one by one for every check which we need to close but not closed till PnR stage.
+There are specialized signoff tools that help us to analyze the issue and also suggest the changes we need to do in order to close the
+issue.
+The suggested change is captured in an eco file.
+
+Commands 
+  
+ 
+ 
+    cd lab5
+    run.tcl
 
 
+![runtclfile](https://user-images.githubusercontent.com/108817818/220595037-b68b1c13-70ed-41fa-b6ab-cbff360348da.jpg)
+
+ Run
+    
+     sta run.tcl –exit | tee run.log 
+   
+### EXERCISE
+
+1. Open Verilog file s27_eco.v, what differences you find compared to s27.v
+  
+    In a s27_eco.v file (verilog design code) an extra clk buffer_x3 u16 is added to design.
+    
+![compare](https://user-images.githubusercontent.com/108817818/220613365-6b647a8f-d1fa-4753-841b-d82a586df079.jpg)
 
 
+2. Observe the change in slack values at timing report
+
+
+![slack final](https://user-images.githubusercontent.com/108817818/220619924-7983b1f8-d4f3-409f-9515-4ae527a85d91.jpg)
 
 																				 
 																				 
