@@ -441,6 +441,8 @@ Commands
 # REFERENCES :
 
 https://vsdiat.com/
+[OpenSTA Manual](https://github.com/The-OpenROAD-Project/OpenSTA/blob/master/doc/OpenSTA.pdf)
+
 
 # ACKNOWLEDGEMENTS :
 
