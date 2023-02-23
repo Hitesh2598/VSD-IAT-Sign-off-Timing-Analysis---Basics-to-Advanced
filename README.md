@@ -440,8 +440,10 @@ Commands
 
 # REFERENCES :
 
-https://vsdiat.com/
-[OpenSTA Manual](https://github.com/The-OpenROAD-Project/OpenSTA/blob/master/doc/OpenSTA.pdf)
+1. https://vsdiat.com/
+2. [OpenSTA Manual](https://github.com/The-OpenROAD-Project/OpenSTA/blob/master/doc/OpenSTA.pdf)
+3. https://github.com/The-OpenROAD-Project/OpenSTA
+4. https://www.synopsys.com/glossary/what-is-static-timing-analysis.html
 
 
 # ACKNOWLEDGEMENTS :
