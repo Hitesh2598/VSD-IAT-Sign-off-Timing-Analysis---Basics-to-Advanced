@@ -375,7 +375,7 @@ Common path pessimism removal (CPPR) is the removal of artificially-induced pess
  
  
      cd lab4
-	  sta run.tcl –exit | out.txt
+	  sta run.tcl –exit | tee out.txt
 
 
 ![run tcl0](https://user-images.githubusercontent.com/108817818/220471545-16c42e8d-6d1d-4a5c-94bd-062b2671915a.jpg)
@@ -446,6 +446,7 @@ Commands
 
 # AUTHOR :
 Hitesh Paliwal , M.Tech VLSI (2022-24)
+
 hitesh.paliwal2598@gmail.com
 
 															 
