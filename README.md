@@ -438,8 +438,16 @@ Commands
 
 ![slack final](https://user-images.githubusercontent.com/108817818/220619924-7983b1f8-d4f3-409f-9515-4ae527a85d91.jpg)
 
-																				 
-																				 
+
+# ACKNOWLEDGEMENTS :
+
+1. Vikas Sachdeva, Advisor, Tech and VLSI Coach, Trainer and Innovator at vlsideepdive.
+2. Kunal Ghosh, Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
+
+# AUTHOR :
+Hitesh Paliwal , M.Tech VLSI (2022-24)
+hitesh.paliwal2598@gmail.com
+
 															 
 
 
